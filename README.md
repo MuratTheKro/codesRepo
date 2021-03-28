@@ -1,0 +1,2 @@
+# codesRepo
+stokGuncelleme
